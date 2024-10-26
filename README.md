@@ -16,7 +16,7 @@
 <br/>
 
 
-<img src="https://github.com/user-attachments/assets/7ecb839f-8539-4130-ae52-bc0610da9c9f" width=100 height=100 />
+<img src="https://github.com/user-attachments/assets/eb46b611-f1ad-4d42-bdf3-a19f0548e671" width=100 height=100 />
 
 ### Time Turner
 직관적인 일정관리 앱
