@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/c2bdee2d-aa28-448e-9b16-8c479084d7d2" width=100 height=100 />
 
-### wooda 우다 - 우리들의 다이어리, 교환일기
-소중한 사람들과의 교환일기로, 특별한 하루를 만들어요!
+### wooda 우다 - 우리들의 다락방
+소중한 관계를 더욱 깊게 만들어주는 일상 공유, 추억 기록 앱
 
 <div>
   <a href="https://apps.apple.com/app/id6720722660" target="_blank">
