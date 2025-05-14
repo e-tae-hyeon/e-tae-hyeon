@@ -2,7 +2,7 @@
 <div align="center">
 
 # e tae hyeon
-<b>Product Maker<b/>
+<b>Product Developer<b/>
 
 ### Skiis
 
